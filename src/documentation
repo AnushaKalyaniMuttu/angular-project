@@ -1,0 +1,21 @@
+sudo npm install -g @angular/cli
+ng new <project-name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Points
+1.Component is from @angular/core

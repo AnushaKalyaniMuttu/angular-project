@@ -1,11 +1,20 @@
 sudo npm install -g @angular/cli
 ng new <project-name>
+ng generate component user
+ng g c user
+http://localhost:4200/
+@angular/router  RouterOutlet
+
+Component: selector , templateUrl , styleUrl,imports, standalone
 
 
+1.String Interpolation
+{{user.id}}
 
-
-
-
+2.Property Binding
+Property Binding should be used for attributes 
+like src 
+<img [src]="selectedUsers.avatar">
 
 
 
